@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=CHARG_5V Pin=FPC1-11
+Added Pin To Net: NetName=CHARG_5V Pin=FPC1-14
+Added Net: Name=CHARG_5V
