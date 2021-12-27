@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CS Pin=FPC1-7
+Removed Pin From Net: NetName=CS Pin=FPC1-8
+Removed Pin From Net: NetName=VCC3_3V Pin=FPC1-9
+Added Pin To Net: NetName=VCC3_3V Pin=FPC1-7
+Added Pin To Net: NetName=NetC15_1 Pin=FPC1-8
+Added Pin To Net: NetName=AC2 Pin=FPC1-9
+Change Net Name : Old Net Name=NetC15_1 New Net Name=CIOL1
